@@ -1,0 +1,9 @@
+[submodule "lab 4_5/PHP-MVC"]
+	path = lab 4_5/PHP-MVC
+	url = git@github.com:AhmedHamada011/PHP-MVC.git
+[submodule "lab 4_5/--help"]
+	path = lab 4_5/--help
+	url = git@github.com:AhmedHamada011/PHP-MVC.git
+[submodule "lab 4 5"]
+	path = lab 4 5
+	url = git@github.com:AhmedHamada011/PHP-MVC.git
